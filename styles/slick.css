@@ -1,0 +1,5 @@
+/*! purgecss start ignore */
+@import "slick-carousel/slick/slick.css";
+/*! purgecss end ignore*/
+#map { height: 180px; }
+
